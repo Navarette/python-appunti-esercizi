@@ -1,0 +1,6 @@
+La funzioe lavora su parametri "attuali"(interno del programma)che si trasformano in "formale"(interno alla funzione.
+La funzione deve avere un parametro senza input/output dentro...
+se non scrivo print viene visualizzato solo l'ultima chiamata.
+Lambda è una funzione anonima.
+map():è una funzione che applica a ogni elemento di una lista()una funzione.è come se fosse un for per tutti gli elementi all'interna della lista.
+fattoriale:è un numero moltiplicato per isuoi precedenti.
