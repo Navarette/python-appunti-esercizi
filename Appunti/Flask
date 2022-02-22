@@ -1,0 +1,17 @@
+un server è un programma sempre attivo 24/24 accessibile dal client,anch’esso un programma,che si attiva quando lo richiede l’utente, collegandosi poi a internet  con un protocollo di comunicazione: http(non protetto) e https(protetto).
+
+http(HyperText Transfer Protocol)
+
+differenza tra i testi e gli ipertesti è che sui ipertesti ti puoi muovere
+
+Principali server web:
+APACHE (software che funziona da server web);
+NGinx;
+
+Node.JS(analogo al flask);
+Flask (python);
+
+
+Un esempio di client può essere un browser(Chrome,Opera,FireFox…)
+
+html si trova nell'hard disk del server web
